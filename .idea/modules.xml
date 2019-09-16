@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1/1.iml" filepath="$PROJECT_DIR$/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ввод-Вывод/Ввод-вывод.iml" filepath="$PROJECT_DIR$/Ввод-Вывод/Ввод-вывод.iml" />
       <module fileurl="file://$PROJECT_DIR$/Задачи.iml" filepath="$PROJECT_DIR$/Задачи.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Условные операторы/Условные операторы.iml" filepath="$PROJECT_DIR$/Условные операторы/Условные операторы.iml" />
     </modules>
   </component>
 </project>
